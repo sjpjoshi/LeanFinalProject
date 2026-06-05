@@ -23,9 +23,6 @@ And six theorems about them:
 | `Distance.iff_mem_sphere` | Distance characterizes the sphere |
 | `pythagorean` | The Pythagorean theorem for right triangles |
 
-See `blueprint.md` for the full mathematical
-description and discussion of design choices.
-
 ## Building
 
 Requires [elan](https://github.com/leanprover/elan) (which installs Lean and Lake).
